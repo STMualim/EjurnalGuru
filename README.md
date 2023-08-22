@@ -1,4 +1,4 @@
-![Screenshot 2023-08-22 142426](https://github.com/joese6/guru_ejurnal/assets/41458819/87404b26-fc50-48c9-97e0-08fe87191774)# guru_ejurnal
+# Guru e-Jurnal
 
 v.1.0
 
@@ -7,6 +7,7 @@ v.1.0
 Guru e-Jurnal adalah aplikasi catatan kegiatan guru yang dikembangkan menggunakan flutter firebase.
 
 ![Screenshot 2023-08-22 142411](https://github.com/joese6/guru_ejurnal/assets/41458819/191811a4-1397-4f4b-b859-9994e7f02aaf)
+![Screenshot 2023-08-22 142426](https://github.com/joese6/guru_ejurnal/assets/41458819/87404b26-fc50-48c9-97e0-08fe87191774)
 ![Screenshot 2023-08-22 142550](https://github.com/joese6/guru_ejurnal/assets/41458819/1640411f-1b34-44c3-ad2c-ba748c3b0d61)
 ![Screenshot 2023-08-22 142500](https://github.com/joese6/guru_ejurnal/assets/41458819/5800720c-1489-4897-8bcc-a23bb1ffb987)
 ![Screenshot 2023-08-22 142444](https://github.com/joese6/guru_ejurnal/assets/41458819/977bc62e-df8a-4001-ba4c-54f6c177167f)
