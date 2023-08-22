@@ -7,8 +7,9 @@ v.1.0
 Guru e-Jurnal adalah aplikasi catatan kegiatan guru yang dikembangkan menggunakan flutter firebase.
 
 ### Catatan :
-1. buat project di firebase
-2. koneksikan guru e-jurnal ke project firebase melalui cli : firebase login dan flutterfire configure
+1. buka project guru e-jurnal , klik file pubspec.yaml dan klik icon get packages
+2. buat project di firebase
+3. koneksikan guru e-jurnal ke project firebase melalui cli : firebase login dan flutterfire configure
 
 ![Screenshot 2023-08-22 142411](https://github.com/joese6/guru_ejurnal/assets/41458819/191811a4-1397-4f4b-b859-9994e7f02aaf)
 ![Screenshot 2023-08-22 142426](https://github.com/joese6/guru_ejurnal/assets/41458819/15785409-f21a-4d02-8496-c05360bb3c4d)
