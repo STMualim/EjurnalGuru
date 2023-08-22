@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "733101653489",
+    "project_id": "guru-e-jurnal",
+    "storage_bucket": "guru-e-jurnal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733101653489:android:c6f2344e27bcc08385d850",
+        "android_client_info": {
+          "package_name": "com.example.guru_ejurnal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733101653489-ooh5ks42gssgqd5otgjqvj11r5oej3pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDycVEtRejwS_1bhxk8vUG52JwJmi2uZ_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733101653489-ooh5ks42gssgqd5otgjqvj11r5oej3pe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733101653489-d918733r31o8i3mj91n5d21u6gk9uvjp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.guruEjurnal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
