@@ -6,4 +6,4 @@ v.1.0
 
 Guru e-Jurnal adalah aplikasi catatan kegiatan guru yang dikembangkan menggunakan flutter firebase.
 
-https://prnt.sc/RC7hOz6wu3sI
+<img src="https://prnt.sc/RC7hOz6wu3sI" width="50%" height="50%">
